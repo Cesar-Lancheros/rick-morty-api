@@ -21,7 +21,7 @@ export default function Developer() {
               <div class="row">
                 <div class="col-lg-6 info">
                   <ul>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <a href="https://signifer-portfolio.netlify.app" target="_blank"> <strong>Website</strong></a></li>
                     <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+57 3008624384</span></li>
                     <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Bogota, Colombia</span></li>
                     <li><i class="bi bi-chevron-right"></i> <a href="https://www.linkedin.com/in/cesar-david-lancheros-buitrago-6a281313b/"target="_blank" ><strong>LinkedIn</strong> </a></li>

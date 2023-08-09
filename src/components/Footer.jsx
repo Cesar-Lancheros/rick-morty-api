@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/css/footer.css'; 
+import '../assets/css/Footer.css'; 
 import rLogo from '../assets/img/Rick_and_Morty.png'
 const Footer = () => {
   return (
