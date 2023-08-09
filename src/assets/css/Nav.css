@@ -1,0 +1,44 @@
+
+
+.navbar {
+    color: #ffffff; 
+  }
+.nav-link{
+    color:#87f75b;
+    font-size: 20px;
+    text-shadow: 0 0 30px #ff0000;
+}
+.logOut{
+    padding-right: 50px;
+}
+  /* Animation on hover  */
+  .navbar-brand:hover {
+    transform: scale(1.2); 
+    color: #00ff00;
+    text-shadow: 0 0 15px #ffff00; 
+  }
+
+
+/* Navbar background  */
+
+
+.navbar {
+  background: radial-gradient(circle, #279b31, #3e0e55);
+  background-size: 140% 140%; /* Slightly smaller size for the portal */
+  animation: gradientAnimation 9s cubic-bezier(0.2, 0.5, 0.8, 0.5) infinite; /* Slower animation */
+
+}
+
+/* Animation for gradient color change */
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+

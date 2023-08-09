@@ -1,0 +1,73 @@
+
+section {
+    min-width:1920px ;
+    margin-top: 5%;
+    background-image: linear-gradient(to bottom, #266b20, #6521b3);
+    
+}
+ h1{
+    color: white;
+    position: relative;
+    left: -10%;
+    margin-bottom: 5%;
+}
+
+label{
+    color: white;
+}
+
+.inpName{
+    width: 30%;
+    border-radius: 5px;
+    margin-right: 2%;
+    margin-bottom: 1%;
+}
+
+.sel-status{
+    margin-left: 6%;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+}
+
+.character-container{
+    max-width: 300px;
+}
+.character-container img{
+    box-shadow: 0 0 90px rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+.character-details{
+    position: relative;
+    top:-10px;
+    background-color: aliceblue;
+    width: 300px;
+    height: 250px;
+    border-end-end-radius : 10px;
+    border-bottom-left-radius : 10px;
+    
+}
+.character-details h3{
+    position: relative;
+    left: 18%;
+    padding-top: 5%;
+    margin-bottom: 10px;
+}
+
+.character-details p{
+    position: relative;
+    left: 5%;
+}
+
+.alert-danger{
+    position: relative;
+    left: 15%;
+    max-width: 30%;
+}
+
+body{
+    overflow: auto;
+}
+
+

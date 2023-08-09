@@ -1,0 +1,29 @@
+
+div .developer img{
+    position: relative;
+    top: 55%;
+    left: 35%;
+    max-width: 450px;
+}
+div .developer h2 {
+    font-size: 54px;
+    position: relative;
+    top: 55%;
+    left: 35%;
+    color: white;
+}
+div .developer  p{
+    font-size: 30px;
+    position: relative;
+    top: 55%;
+    left: 35%;
+    color:cornflowerblue;
+}
+div .developer ul{
+    color: white;
+    position: relative;
+    top: 200px;
+    left: 75%;
+
+}
+
