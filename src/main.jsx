@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter  as Router, Route, Switch } from 'react-router-dom';
 import { Auth0Provider, useAuth0 } from '@auth0/auth0-react';
 import Characters from './components/Characters';
 import Home from './components/Home';
